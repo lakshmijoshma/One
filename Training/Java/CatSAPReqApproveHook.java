@@ -74,7 +74,7 @@ public class CatSAPReqApproveHook implements ApprovableHook
 			if(hasErrors){
 				return ListUtil.list(Constants.getInteger(-1), totalMsg.toString());
 			}
-			// Santanu : Accounting Validation if it was RFQ and User is Buyer
+			// Santanu : Accounting Validation if it was RFQ and User is Buyer1
 
 		}
 
